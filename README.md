@@ -1,4 +1,4 @@
-ATTENTION!
+## ATTENTION!
 
 This is an attempt to convert widescreen patches created by @Fl4sh9174 to 8:7 or 1240x1080 - which is the Ayaneo DMG (and Retroid Classic) aspect ratio and screen resolution.
 
@@ -15,7 +15,7 @@ Please support Fl4sh9174 if you want to.
 
 Below is the original README from Fl4sh9174 (https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)
 
-
+___
 
 
 
