@@ -1,12 +1,22 @@
 ATTENTION!
+
 This is an attempt to convert widescreen patches created by @Fl4sh9174 to 8:7 or 1240x1080 - which is the Ayaneo DMG (and Retroid Classic) aspect ratio and screen resolution.
+
 These were converted with python scripts, so expect some of them to not work correctly.
+
 I only tried to mess with resolution and widescreen patches folders. Other patches like fps and level of detailed I tried to let them as they were.
+
 If you have a fix or a new patched game please let me know.
+
 Again, I take no ownership on these patches. 
+
 Please support Fl4sh9174 if you want to.
 
+
 Below is the original README from Fl4sh9174 (https://github.com/Fl4sh9174/Switch-Ultrawide-Mods)
+
+
+
 
 
 "Inside the .zip files, you'll find:
